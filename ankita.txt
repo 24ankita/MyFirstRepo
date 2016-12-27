@@ -2,3 +2,5 @@
 Change --1
 change --4
 change 5//made on local
+
+change 6//made on remote
